@@ -1,9 +1,9 @@
 
 
 {
-  "name": "yujun",
-  "short_name": "Jun",
-  "description": "Jun`s blog",
+  "name": "Jun`s blog",
+  "short_name": "Jun`s blog",
+  "description": "Something had to be left!",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",
